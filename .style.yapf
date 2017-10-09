@@ -1,0 +1,8 @@
+[style]
+based_on_style = facebook
+split_before_logical_operator = true
+dedent_closing_brackets = true
+column_limit = 120
+join_multiple_lines = false
+split_before_dict_set_generator = true
+split_penalty_import_names = 4600

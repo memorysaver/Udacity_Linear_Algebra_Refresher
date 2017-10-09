@@ -1,2 +1,2 @@
-# Udacity_Linear_Algebra_Refresher
-Linear Algebra Refresher Course at Udacity
+# Udacity Linear Algebra Refresher
+Linear Algebra Refresher Course at Udacity with Python 3.6
